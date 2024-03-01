@@ -1,9 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T22:20:40.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="24.0.0" etag="_Kp2JPSndU1_EpmR1PmK" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-01T23:15:27.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="IcW7vyocCi_ZIIPKveFJ" version="24.0.0" type="github">
   <diagram name="Página-1" id="SfSEKzXnsGO-wV4Z4__S">
-    <mxGraphModel>
+    <mxGraphModel dx="2261" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Cg8-tRYgy1f4m0vnlUpp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cg8-tRYgy1f4m0vnlUpp-1" target="Cg8-tRYgy1f4m0vnlUpp-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cg8-tRYgy1f4m0vnlUpp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cg8-tRYgy1f4m0vnlUpp-1" target="Cg8-tRYgy1f4m0vnlUpp-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg8-tRYgy1f4m0vnlUpp-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cg8-tRYgy1f4m0vnlUpp-1" target="Cg8-tRYgy1f4m0vnlUpp-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="35" y="250" />
+              <mxPoint x="240" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cg8-tRYgy1f4m0vnlUpp-1" value="Paciente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg8-tRYgy1f4m0vnlUpp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cg8-tRYgy1f4m0vnlUpp-4" target="Cg8-tRYgy1f4m0vnlUpp-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg8-tRYgy1f4m0vnlUpp-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cg8-tRYgy1f4m0vnlUpp-4" target="Cg8-tRYgy1f4m0vnlUpp-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg8-tRYgy1f4m0vnlUpp-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cg8-tRYgy1f4m0vnlUpp-4" target="Cg8-tRYgy1f4m0vnlUpp-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg8-tRYgy1f4m0vnlUpp-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cg8-tRYgy1f4m0vnlUpp-4" target="Cg8-tRYgy1f4m0vnlUpp-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg8-tRYgy1f4m0vnlUpp-4" value="Psicólogo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg8-tRYgy1f4m0vnlUpp-10" value="ChatMensagens" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="30" y="360" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg8-tRYgy1f4m0vnlUpp-11" value="ChatBot" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg8-tRYgy1f4m0vnlUpp-12" value="Pagamento" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg8-tRYgy1f4m0vnlUpp-13" value="Consulta" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg8-tRYgy1f4m0vnlUpp-14" value="Diagnostico" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg8-tRYgy1f4m0vnlUpp-18" value="Enviar&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;mensagem()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg8-tRYgy1f4m0vnlUpp-20" value="Iniciar Chat()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg8-tRYgy1f4m0vnlUpp-23" value="Iniciar Chat()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg8-tRYgy1f4m0vnlUpp-24" value="Enviar&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;mensagem()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg8-tRYgy1f4m0vnlUpp-27" value="Marcar Consulta()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg8-tRYgy1f4m0vnlUpp-28" value="Entrar Consulta()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg8-tRYgy1f4m0vnlUpp-30" value="Realizar pagamento()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="95" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg8-tRYgy1f4m0vnlUpp-32" value="Realizar Diagnostico()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
